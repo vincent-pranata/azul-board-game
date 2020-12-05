@@ -8,13 +8,14 @@ In this project, functions as follow are implemented,
 
 ## Installation ##
 
-- Follow the steps below and all should be working..
+- Follow the steps below and all should be working
 
 ```sh
+$ cd src
 $ make all
 ```
 
-- Then run the game using the following command;
+- Then run the game by doing the following command
 
 ```sh
 $ ./azul
