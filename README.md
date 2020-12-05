@@ -22,7 +22,7 @@ $ ./azul
 
 Developers
 ---
-- [Vincent Pranata](https://gayurug.com)
+- [Vincent Pranata](https://github.com/vincent-pranata)
 - [Nicholas Oliver](https://github.com/s3752041)
 - [Louis Irving](https://github.com/s3717388)
 
