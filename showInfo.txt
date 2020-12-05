@@ -1,0 +1,13 @@
+-----------------------------------
+Name: 		Louis Irving
+Student ID: 	s3717388
+Email: 		s3717388@student.rmit.edu.au
+
+Name: 		Nicholas Oliver
+Student ID: 	s3752041
+Email: 		s3752041@student.rmit.edu.au
+
+Name: 		Vincent Pranata
+Student ID: 	s3665858
+Email: 		s3665858@student.rmit.edu.au
+-----------------------------------

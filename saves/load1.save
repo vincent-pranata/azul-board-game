@@ -1,0 +1,48 @@
+name
+Tim
+name
+Vincent
+point
+1
+4
+turn
+Tim
+factory
+1
+F 
+L L B U 
+L U Y L 
+B L B L 
+U B U L 
+R B Y L 
+board
+5
+y
+B . . . . 
+U . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. 
+. . 
+L L . 
+B B . . 
+. . . . . 
+              
+B . . . . 
+. U . . . 
+. . . . . 
+R . . . . 
+Y . . . . 
+. 
+. . 
+. . . 
+. . . . 
+. . . . . 
+              
+lid
+U U U R R R Y Y Y Y 
+bag
+U B R R B B U Y Y U U L L B R R B Y Y R R U R R U R R Y Y L Y R L U U L U B U R B L Y B Y R L B L Y L Y B Y B R U L Y R 
+seed
+1786950628

@@ -1,0 +1,81 @@
+name
+Vincent
+name
+Tim
+name
+Nicholas
+name
+Louis
+point
+0
+0
+0
+0
+turn
+Vincent
+factory
+2
+F 
+F 
+U Y B Y 
+L Y B R 
+U U R U 
+B U R U 
+Y R Y B 
+B L L B 
+Y L R U 
+L R U L 
+Y B L U 
+board
+5
+y
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. 
+. . 
+. . . 
+. . . . 
+. . . . . 
+              
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. 
+. . 
+. . . 
+. . . . 
+. . . . . 
+              
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. 
+. . 
+. . . 
+. . . . 
+. . . . . 
+              
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. 
+. . 
+. . . 
+. . . . 
+. . . . . 
+              
+lid
+
+bag
+U B B R B Y B Y U U B R U Y R Y L U L Y R L L Y Y R R L R R U L B B L B L R R L R Y B L Y Y U Y L U R R B L L Y B U B U Y B R U 
+seed
+1639459110

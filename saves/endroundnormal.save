@@ -1,0 +1,48 @@
+name
+vincent
+name
+nicholas
+point
+0
+0
+turn
+nicholas
+factory
+1
+U U 
+        
+        
+        
+        
+        
+board
+5
+n
+b y r u l 
+l b y r u 
+u l b y r 
+r u l b y 
+y r u l b 
+R 
+Y Y 
+U U U 
+B B . . 
+Y Y . . . 
+F 
+b y r u l 
+l b y r u 
+u l b y r 
+r u l b y 
+y r u l b 
+B 
+Y Y 
+L L L 
+R R . . 
+. . . . . 
+
+lid
+
+bag
+L B R Y Y B L B U Y U B B B Y L R R L Y Y B U Y R L R L U B R U L R U U Y U L B R R R L L L L R R R U B B L R B B L L U R U L Y L B B U Y Y Y B U R Y Y R U U B 
+seed
+986566261
